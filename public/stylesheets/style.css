@@ -35,10 +35,13 @@ h1 {
 }
 
 a {
-  color: #00B7FF;
+  color: #339999;
+  text-decoration: none;
 }
 
-
+a:hover {
+  color: #CDF2E7;  
+}
 
 code {
   font-size: 12px;
